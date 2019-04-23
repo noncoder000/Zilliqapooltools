@@ -13,6 +13,9 @@ With the items in this repo you can:
 Credits go to the following repos:
 
 https://github.com/DurianStallSingapore/Zilliqa-Mining-Proxy
+
+&
+
 https://github.com/nnamon
 
 P.S I am not a programmer, so excuse the the formatting and use of varibiables.
