@@ -18,7 +18,7 @@ https://github.com/DurianStallSingapore/Zilliqa-Mining-Proxy
 
 https://github.com/nnamon
 
-P.S I am not a programmer, so excuse the the formatting and use of varibiables.
+P.S I am not a programmer, so excuse the the formatting and use of variables.
 
 Enjoy!
 
