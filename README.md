@@ -9,6 +9,10 @@ With the items in this repo you can:
 2) Get your addr and private keys (from windows) using plink/putty.
 3) Update CMAX (miner.py & website miner.jinja2 and miner3.jinja2) mongodb to add new variables, and update them.
 4) Automatically pay miners using nodejs and zilliqa-js every block if your using CMAX proxy.
+Note** you need to install nodejs, and zilliqa-js on your proxy server. These are required to run the javascript.
+There are instruction here for zilliqa-js.
+
+https://github.com/Zilliqa/Zilliqa-JavaScript-Library/blob/dev/README.md
 
 Credits go to the following repos:
 
